@@ -1,0 +1,333 @@
+<html>
+<head>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+</head>
+<body>
+<input id="id_doc" type="hidden" value="0" />
+<div class="btn-group btn-group-toggle" data-toggle="buttons">
+  <label class="btn btn-secondary active">
+    <input type="radio" name="options" id="empresa" autocomplete="off" checked> Empresa
+  </label>
+  <label class="btn btn-secondary">
+    <input type="radio" name="options" id="cargo" autocomplete="off"> Cargo
+  </label>
+  <label class="btn btn-secondary">
+    <input type="radio" name="options" id="ano-inicio" autocomplete="off"> Ano Inicio
+  </label>
+  <label class="btn btn-secondary">
+    <input type="radio" name="options" id="ano-fim" autocomplete="off"> Ano Fim
+  </label>
+  <label class="btn btn-secondary">
+    <input type="radio" name="options" id="descricao" autocomplete="off"> Descrição
+  </label>
+</div>
+    <div class="container-fluid">
+      <div class="row">
+        <nav class="col-md-2 d-none d-md-block bg-light sidebar">
+          <div class="sidebar-sticky">
+            <ul class="nav flex-column">
+              <li class="nav-item">
+                <input type="file" id="fileUpload" style="display:none">
+                <a class="nav-link active" onclick="active_upload()" href="#">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-home"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+                  Selecionar texto
+                </a>
+              </li>
+              <!--<li class="nav-item">-->
+              <!--  <a class="nav-link" href="#">-->
+              <!--    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file"><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"></path><polyline points="13 2 13 9 20 9"></polyline></svg>-->
+              <!--    Carregar texto-->
+              <!--  </a>-->
+              <!--</li>-->
+              <li>
+                <input id="changeColor" type="button" class="btn" value="Taggear"/>
+              </li>
+            </ul>        
+          </div>
+        </nav>
+
+        <main role="main" class="col-md-9 ml-sm-auto col-lg-10 px-4"><div class="chartjs-size-monitor" style="position: absolute; left: 0px; top: 0px; right: 0px; bottom: 0px; overflow: hidden; pointer-events: none; visibility: hidden; z-index: -1;"><div class="chartjs-size-monitor-expand" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;"><div style="position:absolute;width:1000000px;height:1000000px;left:0;top:0"></div></div><div class="chartjs-size-monitor-shrink" style="position:absolute;left:0;top:0;right:0;bottom:0;overflow:hidden;pointer-events:none;visibility:hidden;z-index:-1;"><div style="position:absolute;width:200%;height:200%;left:0; top:0"></div></div></div>
+          <div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+            <h1 id="title" class="h2">Texto</h1>
+            <div class="btn-toolbar mb-2 mb-md-0">
+              <div class="btn-group mr-2">
+                <button onclick="download_input()" class="btn btn-sm btn-outline-secondary">Baixar Input</button>
+                <button onclick="download_output()" class="btn btn-sm btn-outline-secondary">Baixar Output</button>
+              </div>
+            </div>
+          </div>
+
+          <div id="corpus" class="container-fluid">
+            <p></p>
+        </div>
+        
+        
+          
+        </main>
+      </div>
+    </div>
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+    <script src="../../assets/js/vendor/popper.min.js"></script>
+    <script src="../../dist/js/bootstrap.min.js"></script>
+
+    <!-- Icons -->
+    <script src="https://unpkg.com/feather-icons/dist/feather.min.js"></script>
+    <script>
+      feather.replace()
+    </script>
+
+</body>
+<!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+<script src="https://brain.youbot.us/static/js/insert_chat.js"></script> -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<script>
+var target = []
+var source = []
+
+function active_upload(){
+  $('#fileUpload').click()
+}
+
+function selectHTML() {
+    try {
+        if (window.ActiveXObject) {
+            var c = document.selection.createRange();
+            return c.htmlText;
+        }
+    
+        var nNd = document.createElement("span");
+        nNd.setAttribute("class", 'span-'+$('input[type="radio"]:checked').attr('id'))
+        var w = getSelection().getRangeAt(0);
+        w.surroundContents(nNd);
+        return nNd.innerHTML;
+    } catch (e) {
+        if (window.ActiveXObject) {
+            return document.selection.createRange();
+        } else {
+            return getSelection();
+        }
+    }
+}
+
+$(function() {
+    $('#changeColor').click( function() {
+        var mytext = selectHTML();
+        selected = $('input[type="radio"]:checked')
+        if($(selected).attr('id') == 'empresa'){
+            $('.span-empresa').css({"background":"CadetBlue","font-weight":"bold"});
+        }else if($(selected).attr('id') == 'cargo'){
+            $('.span-cargo').css({"background":"DarkCyan","font-weight":"bold"});
+        }else if($(selected).attr('id') == 'ano-inicio'){
+            $('.span-ano-inicio').css({"background":"DarkOrchid","font-weight":"bold"});
+        }else if($(selected).attr('id') == 'ano-fim'){
+            $('.span-ano-fim').css({"background":"DarkSeaGreen","font-weight":"bold"});
+        }else if($(selected).attr('id') == 'descricao'){
+            $('.span-descricao').css({"background":"Plum","font-weight":"bold"});
+        }
+            
+    });
+});
+
+function download_input(){
+  source = []
+    content = $('#corpus').contents().find('p').contents()
+    $(content.prevObject.prevObject).each(function(i, x){
+      try{
+        qtd = $(x).text().split(" ")
+        $.each(qtd, function(i, obj){
+          if(obj != ""){
+            source.push(obj)
+          }
+        })
+      }
+      catch(e){
+          console.log(x)
+      }
+    })
+    
+    download_csv(source, 's_'+$('#id_doc').val()+'.csv', 'input')
+}
+
+function download_output(){
+    content = $('#corpus').contents().find('p').contents()
+    $(content.prevObject.prevObject).each(function(i, x){
+      try{
+            if($(x).prop('tagName') == 'SPAN'){
+              qtd = $(x).text().split(" ")
+              $.each(qtd, function(i, obj){
+                if(obj != ""){
+                  target.push(return_target_value($(x).attr('class')))
+                }                
+              })
+            }else{
+              qtd = $(x).text().split(" ")
+              $.each(qtd, function(i, obj){
+                if(obj != ""){
+                  target.push(0)
+                }
+                
+              })
+            }
+      }catch(e){
+          console.log(x)
+      }
+    })
+    
+    download_csv(target, 't_'+$('#id_doc').val()+'.csv', 'output')
+}
+
+function return_target_value(id){
+  if(id=="span-empresa"){
+    return 1;
+  }
+  if(id=="span-cargo"){
+    return 2;
+  }
+  if(id=="span-ano-inicio"){
+    return 3;
+  }
+  if(id=="span-ano-fim"){
+    return 4;
+  }
+  if(id=="span-descricao"){
+    return 5;
+  }
+}
+
+function download_csv(file, filename, type){
+  let csvContent = "data:text/csv;charset=utf-8,";
+  file.forEach(function(rowArray){
+    let row = rowArray;
+    csvContent += row + ";";
+  }); 
+  if(type=='input'){
+    update_input(csvContent)
+  }else{
+    update_output(csvContent)
+  }
+  var encodedUri = encodeURI(csvContent);
+  saveAs(encodedUri, filename);
+  
+}
+
+function saveAs(uri, filename) {
+    var link = document.createElement('a');
+    if (typeof link.download === 'string') {
+        document.body.appendChild(link); // Firefox requires the link to be in the body
+        link.download = filename;
+        link.href = uri;
+        link.click();
+        document.body.removeChild(link); // remove the link when done
+    } else {
+        location.replace(uri);
+    }
+}
+
+$('input[type=file]').change(function () {
+    console.dir(this.files[0])
+    var data = new FormData();
+    data.append('files', this.files[0])
+    $.ajax({
+      url: "{% url 'core:upload' %}",
+      method: 'POST',
+      beforeSend: function(request) {
+        return request.setRequestHeader('X-CSRFToken', $('#csrf_token').val());
+      },
+      data: data,
+      success: function(data) {
+        // Reset file input
+        $("#corpus").html(data.content);
+        $("#id_doc").val(data.id) 
+        console.log($("#id_doc"))
+        $("#title").text(data.id)
+        console.log($("#title"))
+        console.log(data);
+      },
+      error: function(xhr, textStatus, errorThrown) {
+        // Reset file input
+        
+      },
+      cache: false,
+      contentType: false,
+      processData: false,
+    });
+})
+
+
+function save_on_server(file){
+  var data = new FormData();
+    data.append('files', file)
+    $.ajax({
+      url: "{% url 'core:upload' %}",
+      method: 'POST',
+      beforeSend: function(request) {
+        return request.setRequestHeader('X-CSRFToken', $('#csrf_token').val());
+      },
+      data: data,
+      success: function(data) {
+        // Reset file input
+        console.log(data)
+        $("#corpus").html(data.content);
+        
+      },
+      error: function(xhr, textStatus, errorThrown) {
+        // Reset file input
+        
+      },
+      cache: false,
+      contentType: false,
+      processData: false,
+    });
+}
+
+function update_input(csv){
+  $.ajax({
+    //url: 'https://'+document.location.hostname + $('#verify_is_logged_url').val(),
+    url: "{% url 'core:update_input' %}",
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded'
+    },
+    data: {
+      'csv':csv,
+      'pk':$('#id_doc').val()
+    },
+    method: 'POST',
+    beforeSend: function(request) {
+      return request.setRequestHeader('X-CSRFToken', $('#csrf_token').val());
+    },
+    success: function(data) {
+      console.log('Retorno input')
+      console.log(data)
+    }
+  });
+}
+
+function update_output(csv){
+  $.ajax({
+    //url: 'https://'+document.location.hostname + $('#verify_is_logged_url').val(),
+    url: "{% url 'core:update_output' %}",
+    headers: {
+      'Content-Type': 'application/x-www-form-urlencoded'
+    },
+    data: {
+      'csv':csv,
+      'pk':$('#id_doc').val()
+    },
+    method: 'POST',
+    beforeSend: function(request) {
+      return request.setRequestHeader('X-CSRFToken', $('#csrf_token').val());
+    },
+    success: function(data) {
+      console.log('Retorno output')
+      console.log(data)
+    }
+  });
+}
+</script>

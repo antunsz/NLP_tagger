@@ -1,0 +1,78 @@
+ I v a n   L u i z   G u i z z o     
+  F u n ç õ e s :   A n a l i s t a   d e   S u p o r t e   d e   A p l i c a ç ã o ,   A n a l i s t a   d e   N e g ó c i o s   I d a d e :   5 5   a n o s 	 	 	 	 E s t a d o   c i v i l :   C a s a d o 
+ E s c o l a r i d a d e :   p ó s - g r a d u a ç ã o 	 	 F i l h o s :   2 	 	 	 V e í c u l o :   S i m 
+      D a d o s   p a r a   C o n t a t o   E n d e r e ç o :   R u a   O s   1 8   d o   F o r t e ,   8 7 4   -   a p .   3 3   –   C e n t r o   -   C E P   9 5 0 2 0 - 4 7 2 ,   C a x i a s   d o   S u l ,   R S .  T e l e f o n e :   0 5 4   3 0 2 8 . 7 9 1 3 	 	 C e l u l a r :   0 5 4   9   9 9 7 3 . 2 7 1 3 	 E - m a i l :   i . g u i z z o @ t e r r a . c o m . b r       F o r m a ç ã o   A c a d ê m i c a   P ó s - g r a d u a ç ã o   e m   G e s t ã o   d e   P e s s o a s ,   U C S ,   2 0 1 0 ,   c o n c l u í d o .  C i ê n c i a s   E c o n ô m i c a s ,   U C S ,   2 0 0 8 ,   c o n c l u í d o .  A r q u i t e t u r a   e   U r b a n i s m o ,   U C S ,   o i t o   s e m e s t r e s .  C i ê n c i a s   d a   C o m p u t a ç ã o ,   U C S ,   t r ê s   s e m e s t r e s .       E x p e r i ê n c i a   P r o f i s s i o n a l 
+  0 1 / 2 0 1 4   –   G r e n d e n e   S . A .   -   F a r r o u p i l h a 
+  .   A n a l i s t a   d e   N e g ó c i o s 
+ P r e s t a r   s u p o r t e   n o s   p r o c e s s o s   o r i e n t a n d o   e   e s c l a r e c e n d o   d ú v i d a s   c o m   r e l a ç ã o   a o s   s o f t w a r e s   u t i l i z a d o s ; 
+ D i a g n o s t i c a r   n e c e s s i d a d e s ,   p r o s p e c t a n d o   e   d e s e n v o l v e n d o   f o r n e c e d o r e s ,   b u s c a n d o   o t i m i z a ç ã o   e   i n t e g r a ç ã o   e n t r e   o s   s o f t w a r e s ; 
+ D e f i n i r   s o l u ç õ e s   c o n f o r m e   n e c e s s i d a d e s   e m   s o f t w a r e ,   d e t a l h a n d o   e s p e c i f i c a ç õ e s   t é c n i c a s   e   v a l i d a n d o   a s   m e l h o r i a s   i n c o r p o r a d a s ; 
+ H o m o l o g a r   m e l h o r i a s   e   c o r r e ç õ e s ,   v e r i f i c a n d o   a   c o e r ê n c i a   e n t r e   d e m a n d a   e   s o l u ç ã o ; 
+ I d e n t i f i c a r   n e c e s s i d a d e s   d e   c a p a c i t a ç ã o   d o s   u s u á r i o s   n o   u s o   d o s   s o f t w a r e s ,   s u g e r i n d o   o u   a p l i c a n d o   t r e i n a m e n t o s ; 
+ I d e n t i f i c a r   e   p r o p o r   m e l h o r i a s   e   i n o v a ç õ e s ,   n o s   p r o c e s s o s   d a   á r e a   d e   a t u a ç ã o ; 
+ A m b i e n t e s   e   s o f t w a r e s :   W e b ,   C l i e n t - S e r v e r ,   M S   S Q L   S e r v e r ,   E x p e r t / A b s i s R H   ( A b s i s ) ,   D i g i c o n . 
+   0 7 / 2 0 0 7   à   0 9 / 2 0 1 3   -   R a n d o n   I m p l e m e n t o s   e   P a r t i c i p a ç õ e s   S . A .   -   C a x i a s   d o   S u l 
+  .   A n a l i s t a   d e   N e g ó c i o s 
+ I d e m   a c i m a ; 
+ D e s e n v o l v i m e n t o   d e   p r o g r a m a s   p a r a   m i g r a ç ã o   d e   d a d o s   d o s   s i s t e m a s   l e g a d o s   p a r a   o   E R P   S A P - H R . 
+ A m b i e n t e s   e   s o f t w a r e s :   C l i e n t - S e r v e r ,   O r a c l e ,   M S   S Q L   S e r v e r ,   F p w   ( L G   I n f o r m á t i c a ) ,   A n a l i s a   ( J M S o f t ) ,   P o n t o s o f t   ( I n s o f t 4 ) ,   S A P - H R ,   T e l e m á t i c a . 
+ 
+ 
+   0 3 / 2 0 0 1   à   1 1 / 2 0 0 6   -   M e t a d a d o s   A s s e s s o r i a   e   S i s t e m a s   L t d a .   -   C a x i a s   d o   S u l 
+  .   C o o r d e n a d o r   d o   S u p o r t e   e   A t e n d i m e n t o   a o s   C l i e n t e s ,   2 0 0 4   –   2 0 0 6 
+ .   A n a l i s t a   d e   S u p o r t e   d e   A p l i c a ç ã o ,   2 0 0 1   –   2 0 0 4 
+ G e r e n c i a r   a   u n i d a d e   d e   n e g ó c i o   P a g a d o r i a   -   S u p o r t e   e   D e s e n v o l v i m e n t o   p a r a   o s   m ó d u l o s   d e   F o l h a 
+ d e   P a g a m e n t o ,   P o n t o   E l e t r ô n i c o   e   B e n e f í c i o s ; 
+ C o o r d e n a r   a   á r e a   d e   S u p o r t e   a o   C l i e n t e ; 
+ G e r e n c i a r   p r o j e t o s ,   f o r n e c e r   s u p o r t e ,   i m p l a n t a r   e   m i n i s t r a r   t r e i n a m e n t o ; 
+ M e m b r o   d o   C o m i t ê   d o   P r o g r a m a   d e   G e s t ã o   d a   Q u a l i d a d e ,   p a r t i c i p a n d o   d e   g r u p o s   d e   t r a b a l h o   v i s a n d o   m e l h o r i a s   n o   a m b i e n t e   e   n o s   p r o c e s s o s   d a   o r g a n i z a ç ã o . 
+ 
+    0 5 / 1 9 9 3   à   1 0 / 2 0 0 0   -   D z s e t   S o l u ç õ e s   e   S i s t e m a s   L t d a .   -   C a x i a s   d o   S u l 
+    .   C o o r d e n a d o r   d e   I m p l a n t a ç ã o   1 9 9 8   –   2 0 0 0 
+ .   G e r e n t e   d e   C o n t a   -   s u p o r t e   a o   s i s t e m a   E R P   D a t a s u l   1 9 9 6   –   1 9 9 7 
+ .   A n a l i s t a   d e   S u p o r t e   d e   A p l i c a ç ã o   1 9 9 3 - 1 9 9 5 
+ C o o r d e n a r   a   e q u i p e   d e   i m p l a n t a ç ã o   d o   a p l i c a t i v o   D a t a s u l   E M S   H R ; 
+ C o o r d e n a r   a   e q u i p e   d e   s u p o r t e   n o   c l i e n t e   F r a s - l e   n o   a p l i c a t i v o   D a t a s u l   E M S ; 
+ D e s e n v o l v i m e n t o   e   m a n u t e n ç ã o   d e   p r o g r a m a s   u t i l i z a n d o   S G B D   P r o g r e s s . 
+   1 1 / 1 9 8 7   à   0 4 / 1 9 9 3   F r a s - l e   S . A .   -   C a x i a s   d o   S u l 
+  .   A n a l i s t a   d e   S i s t e m a s   1 9 8 9 - 1 9 9 3 
+ .   P r o g r a m a d o r   C o b o l ,   E a s y t r i e v e ,   P r o g r e s s 
+ P a r t i c i p a ç ã o   n o   p r o c e s s o   d e   i m p l a n t a ç ã o   a o   s i s t e m a   E R P   D a t a s u l .   D e s e n v o l v i m e n t o   d e   s i s t e m a s   c o m p l e m e n t a r e s   a o   R H   c o m o   A v a l i a ç ã o   d e   D e s e m p e n h o ,   P e s q u i s a   S a l a r i a l ,   C a r g o s   e   S a l á r i o s ,   P P R . 
+ 
+ 
+ 0 8 / 1 9 8 6   à   0 9 / 1 9 8 7   P r o d a c   L t d a .   -   C a x i a s   d o   S u l 
+  .   P r o g r a m a l i s t a   C o b o l ,   Z i m . 
+ 
+ 
+ 0 1 / 1 9 8 4   à   0 7 / 1 9 8 6   A D S   L t d a .   ( a t u a l   N L   I n f o r m á t i c a )   -   C a x i a s   d o   S u l 
+  .   P r o g r a m a d o r   C o b o l ,   M u m p s . 
+     
+ I d i o m a s  I n g l ê s   i n t e r m e d i á r i o  E s p a n h o l   b á s i c o      
+ Q u a l i f i c a ç õ e s   E x p e r i ê n c i a   p r o f i s s i o n a l   c o n s t r u í d a   e m   m a i s   d e   3 0   a n o s   d e   a t u a ç ã o   n a   á r e a   d e   T e c n o l o g i a   d a   I n f o r m a ç ã o ; 
+ 
+ V i v ê n c i a   e s p e c i a l i z a d a   e m   I n f o r m á t i c a ,   c o m   d e s t a q u e   p a r a : 
+ -   P r o g r a m a ç ã o ; 
+ -   D e s e n v o l v i m e n t o   d e   s i s t e m a s ; 
+ -   I m p l a n t a ç ã o   d e   s i s t e m a s   d e   a p l i c a ç ã o ; 
+ -   S u p o r t e   a o   C l i e n t e ; 
+ -   C o o r d e n a ç ã o   –   s e t o r   d e   s u p o r t e   a o   C l i e n t e 
+ -   A t u a ç ã o   e m   g e s t ã o   a d m i n i s t r a t i v a   e   f i n a n c e i r a   -   s o c i e d a d e   e m p r e s a r i a l 
+ -   A t u a ç ã o   e m   p l a n e j a m e n t o   e s t r a t é g i c o . 
+     
+ 
+ C a p a c i t a ç ã o   e   a p e r f e i ç o a m e n t o 
+  P a s s   S Q L   S a t u r d a y , # 6 0 9 ,   C a x i a s   d o   S u l ,   2 0 1 7 ;  S Q   M S C A   S Q L   S E R V E R   2 0 1 4   ( 1 2 0   h o r a s ) ,   C a x i a s   d o   S u l :   F l e x x o ,   2 0 1 5 ; 
+ . Q u e r y i n g   S Q L   S e r v e r   2 0 1 4   ( 4 0   h o r a s ) 
+ . A d m i n i s t e r i n g   S Q L   S e r v e r   2 0 1 4   D a t a b a s e s   ( 4 0   h o r a s ) 
+ . I m p l e m e n t i n g   a   D a t a   W a r e h o u s e   w i t h   M i c r o s o f t   S Q L   S e r v e r   2 0 1 4   ( 4 0   h o r a s ) 
+ K a i z e n   R H   ( 4 5   h o r a s ) .   C a x i a s   d o   S u l :   R a n d o n ,   2 0 0 8 ; 
+ P r o m o b   5   P l u s ,   m ó d u l o s   b á s i c o   e   a v a n ç a d o .   C a x i a s   d o   S u l :   P r o c a d   S o f t w a r e s   p a r a   L a y o u t ,   2 0 0 7 ; 
+ G e s t ã o   d e   E q u i p e s   -   C u r s o   S e q .   d e   C o m p l .   d e   E s t u d o s .   C a x i a s   d o   S u l :   U C S ,   2 0 0 5 - 2 0 0 6 ; 
+ T r e i n a m e n t o   d e   N o v a s   R e g r a s   d e   C o n t a b i l i z a ç ã o .   C a x i a s   d o   S u l :   M e t a d a d o s ,   2 0 0 6 ; 
+ I n t e r p r e t a ç ã o   d e   C r i t é r i o s   e   A v a l i a d o r   N í v e l   I   d o   S i s t e m a   d e   A v a l i a ç ã o   -   C i c l o   2 0 0 6 .   C a x i a s   d o   S u l :   P G Q P ,   2 0 0 6 ; 
+ R e l a c i o n a n d o - s e   c o m   o   C l i e n t e   p e l a   Q u a l i d a d e .   C a x i a s   d o   S u l :   F o n t e   C o n s u l t o r i a   e   T r e i n a m e n t o ,   2 0 0 5 ; 
+ G e s t ã o   d a   Q u a l i d a d e :   P l a n e j a m e n t o   E s t r a t é g i c o .   C a x i a s   d o   S u l :   S e b r a e ,   2 0 0 5 ; 
+ G e s t ã o   d a   Q u a l i d a d e :   O s   P r o c e s s o s .   C a x i a s   d o   S u l :   S e b r a e ,   2 0 0 4 - 2 0 0 5 ; 
+ G e s t ã o   d a   Q u a l i d a d e :   A s   P e s s o a s .   C a x i a s   d o   S u l :   S e b r a e ,   2 0 0 4 ; 
+ G e s t ã o   d a   Q u a l i d a d e :   D ' O L H O   n a   Q u a l i d a d e   ( 5 S ) .   C a x i a s   d o   S u l :   S e b r a e ,   2 0 0 4 ; 
+ G e s t ã o   d a   Q u a l i d a d e :   O s   P r i n c í p i o s .   C a x i a s   d o   S u l :   S e b r a e ,   2 0 0 4 . 

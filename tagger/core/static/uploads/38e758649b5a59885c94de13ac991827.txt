@@ -1,0 +1,141 @@
+
+ R A F A E L   L U I Z   D E   F A R I A   O L I V E I R A  R .   C r u z e i r o   d o s   P e i x o t o s ,   n ° 9 6 1    B a i r r o   C a z e c a 
+ 3 8 4 0 0 - 0 5 2      U b e r l â n d i a      M G 
+ ( 3 4 )   9 6 6 6 - 8 1 3 1   /   ( 3 4 )   3 2 3 7 - 6 6 4 8 
+ r a f a e l l f o @ g m a i l . c o m 
+ 3 3   a n o s      B r a s i l e i r o      C a s a d o 
+ 
+  
+ 
+ R e s u m o   d e   Q u a l i f i c a ç õ e s 
+ 	 
+ C a r r e i r a   f o c a d a   n o   E R P   O r a c l e   E B S ,   d e s d e   2 0 0 9 ,   t r a b a l h a n d o   e m   p r o j e t o s   d e   i m p l e m e n t a ç ã o / r e i m p l a n t a ç ã o ,   m i g r a ç õ e s   e   o p e r a ç õ e s   d e   p ó s - i m p l e m e n t a ç ã o .   
+ 
+ D u r a n t e   6   a n o s   d e   s e r v i ç o s   d e   c o n s u l t o r i a   O r a c l e   p u d e   d e s e n v o l v e r   h a b i l i d a d e s   r e l a c i o n a d a s   a   t o d a s   a s   f a s e s   d e   u m   p r o j e t o ;     p l a n e j a m e n t o ,   m a p e a m e n t o   d e   r e q u e r i m e n t o s   d o   n e g ó c i o ,   d e s e n h o   e   c o n s t r u ç ã o   d e   s o l u ç õ e s   b a s e a d a s   e m   p r á t i c a s   d e   m e r c a d o .   
+ 
+ H a b i l i d a d e s   P r o f i s s i o n a i s 
+               M ó d u l o s 
+ G e n e r a l   L e d g e r 
+ S u b l e d g e r   A c c o u n t i n g 
+ A d v a n c e d   G l o b a l   I n t e r c o m p a n y   S y s t e m 
+ F i x e d   A s s e t s 
+ A c c o u n t   P a y a b l e s 
+ A c c o u n t   R e c e i v a b l e s   
+ A R / B i l l i n g   
+ P u r c h a s e   O r d e r s 
+ O r d e r   M a n a g e m e n t 
+ I n v e n t o r y 
+ I n t e g r a t e d   R e c e i v i n g 
+ O r a c l e   A p p l i c a t i o n s   R   1 1 ,   1 1 i ,   1 2 
+ 
+               F e r r a m e n t a s   d e   A p l i c a ç ã o 
+ P l * S q l   
+ F o r m s 
+ R e p o r t s 
+ W o r k f l o w 
+ X M L   P u b l i s h e r 
+ S O A / B P E L 
+ O S B 
+ A P E X 
+ A D F 
+ O B I E E 
+ 
+ 
+ F o r m a ç ã o   A c a d ê m i c a 
+ 
+ G r a d u a d o   e m   S i s t e m a s   d e   I n f o r m a ç ã o   –   c o n c l u í d o   e m   2 0 1 0 
+ F a c u l d a d e   P i t á g o r a s 
+ 
+ C e r t i f i c a ç õ e s 
+ 
+ I T I L   V 3   F o u n d a t i o n   C e r t i f i e d   ( S R 5 8 0 2 8 1 2 ) 
+ O r a c l e   E - B u s i n e s s   S u i t e   R 1 2   E s s e n t i a l s   C e r t i f i e d   ( 2 3 8 0 4 2 0 7 7 ) 
+ O r a c l e   D a t a b a s e   1 1 g :   S Q L   F u n d a m e n t a l s   I   C e r t i f i e d   ( O C 0 9 5 3 4 8 1 ) 
+ 
+ I d i o m a 
+ 
+ I n g l ê s   –   A v a n ç a d o 
+ 
+ T r a j e t ó r i a   P r o f i s s i o n a l 
+ 
+ 1 0 / 2 0 1 5   ( A t u a l m e n t e ) 	 I n n o v a t i v e   M a n a g e m e n t   C o n s u l t i n g   ( P o r t o   A l e g r e   -   R S ) 
+ 	 	 	 C o n s u l t o r   T é c n i c o   O E B S 
+ 
+ I n t e g r a ç ã o / M i g r a ç ã o   O r a c l e   E B S   p a r a   1 2 . 2 . 4   n a   R e n n e r . 
+ C u s t o m i z a ç õ e s   e m   P L / S Q L ,   O r a c l e   F o r m s ,   X M L / B I   P u b l i s h e r ,   S O A   S u i t e   1 1 g . 
+ M o d u l o s :   A P   /   A R   /   P O   /   O K C 
+ M e t o d o l o g i a   U O M . 
+ 
+ 0 9 / 2 0 1 5   a   1 0 / 2 0 1 5             M a g a z i n e   L u i z a   ( F r a n c a   S P ) 
+ 	 	 	 C o n s u l t o r   T é c n i c o   O E B S   /   A r q u i t e t u r a 
+ D e s e n v o l v i m e n t o   d e   o r q u e s t r a ç õ e s   B P E L   e   v i r t u a l i z a ç ã o   d e s t e s   a t r a v é s   d e   S e r v i c e   B u s . 
+ M ó d u l o s   a t e n d i d o s :   P O   e   R I . 
+ 
+ 0 2 / 2 0 1 5   a   0 7 / 2 0 1 5 	 S t e f a n i n i   ( R e m o t o ) 
+ 	 	 	 	 C o n s u l t o r   T é c n i c o   O E B S   -   F i n a n c e i r o 
+ 	 	 	 	 
+ I m p l a n t a ç ã o / M i g r a ç ã o   O r a c l e   E B S   p a r a   1 2 . 2 . 4   n a   D e l l . 
+ M i g r a ç ã o   e   c u s t o m i z a ç ã o   d e   c o m p o n e n t e s   ( P L / S Q L ,   O r a c l e   B I ) . 
+ C r i a ç ã o   d e   n o v a s   f e a t u r e s   v i s a n d o   i n t e g r a ç ã o   c o m   s o f t w a r e s   t e r c e i r o s . 
+ D o c u m e n t a ç ã o   n a   m e t o d o l o g i a   A I M . 
+ A t u a n d o   c o m   t i m e s   d e   B r a s i l ,   Í n d i a   e   E s t a d o s   U n i d o s . 
+ 
+ 1 2 / 2 0 1 4   a   0 2 / 2 0 1 5 	 N i n e c o n   ( R i o   d e   J a n e i r o   R J ) 
+ 	 	 	 	 C o n s u l t o r   T é c n i c o   O E B S   -   S u p r i m e n t o s 
+ 	 	 	 	 
+ A n a l i s e   d e   p r o c e s s o s ,   e s p e c i f i c a ç ã o   e   i m p l e m e n t a ç ã o   d e   n o v a s   f u n c i o n a l i d a d e s ,   m a n u t e n ç ã o   e   m e l h o r i a s   c o m   P L / S Q L ,   A P E X   e   B I   P u b l i s h e r . 
+ D o c u m e n t a ç ã o   T é c n i c a   n o   m o d e l o   A I M . 
+ C l i e n t e   O d e b r e c h t . 
+ 
+ 0 4 / 2 0 1 4   a   1 2 / 2 0 1 4 	 I T C o n v e r g e n c e 
+ 	 	 	 	 C o n s u l t o r   T é c n i c o   O r a c l e   E B S 
+ 	 	 	 	 
+ C l i e n t e   U l t r a g a z   ( R e m o t o ) 
+ D e s e n v o l v i m e n t o   d e   p r o g r a m a s   c o n c o r r e n t s   ( f u n ç õ e s   d e   e n v i o   F T P ,   S M T P   c o m   a t t a c h m e n t ) ,   r e l a t ó r i o s   e m   X M L   P u b l i s h e r   e   i n t e g r a ç õ e s   F E B R A B A M . 
+ M o d u l o s   e n v o l v i d o s   n a s   a t i v i d a d e s   A P   /   A R   /   P O   /   R I   /   G L   /   O K C . 
+ C l i e n t e   B r i n k s   ( R e m o t o ) 
+ D e s e n v o l v i m e n t o   d e   r e l a t ó r i o s   e m   X M L   P u b l i s h e r   A R   /   A P   /   G L . 
+ C l i e n t e   G R P C O M   ( C u r i t i b a ) 
+ L í d e r   T é c n i c o   e m   p r o j e t o   d e   i m p l a n t a ç ã o   d e   O r a c l e   E B S   1 2 . 1 . 3 . 
+ D e s e n h o   d a   A r q u i t e t u r a   d e   i n t e g r a ç ã o   d e   s i s t e m a s   l e g a d o s   e   p a r c e i r o s   a o   O r a c l e   E B S ; 
+ I n t e g r a ç õ e s   c o m   S O A / O S B   ( W e b l o g i c   1 1 . 1 . 1 . 7 ) . 
+ S i s t e m a s   p a r c e i r o s :   L G   ( H R ) ,   C R M   P e o p l e s o f t ,   A l l S t r a t e g y   e   X R T   ( T e s o u r a r i a ) . 
+ E s t i m a t i v a ,   d o c u m e n t a ç ã o   d e   a r q u i t e t u r a   ( T A 0 7 0 )   e   d e s e n v o l v i m e n t o   ( D S 1 4 0 )   e   t e s t e s   u n i t á r i o   d e   t o d o s   d e s e n v o l v i m e n t o s   ( I n t e g r a ç õ e s   e   C u s t o m i z a ç õ e s ) . 
+ U s o   d e   m e t o d o l o g i a   U O M . 
+ C l i e n t e   T i g r e   A D S   ( R e m o t o ) 
+ D e s e n v o l v i m e n t o   d e   n o v a s   f e a t u r e s ; 
+ D e s e n v o l v i m e n t o   d e   i n t e g r a ç õ e s   u t i l i z a n d o   D e s k t o p   I n t e g r a t o r   p a r a   i n s e r ç ã o   d e   r e g i s t r o s   e m   l o t e   d e   d a d o s   a t r a v é s   d e   p l a n i l h a s   e x c e l   ( i n t e g r a ç õ e s   p a r a   ( S u p p l i e r s   a n d   S u p p l i e r s   S i t e s ,   S u p p l i e r s   B a n k s   A c c o u n t s , A P   O p e n   I n v o i c e s ,   C u s t o m e r s ,   A R   O p e n   I n v o i c e s ,   I t e m s ,   O n - H a n d s ,   I t e m   C o s t s ) ; 
+ R e p a s s e   t é c n i c o   e   d e s e n v o l v i m e n t o   d e   m a t e r i a l   p a r a   t r e i n a m e n t o   O B I E E ,   S O A   S u i t e   e   A D F .   O b j e t i v o   d e   i n t e n s i f i c a r   o   c o n h e c i m e n t o   t é c n i c o   g e r a l   d a   c o n s u l t o r i a . 
+ 
+ 
+ 0 5 / 2 0 1 3   a   0 3 / 2 0 1 4 	 S t e f a n i n i   ( R e m o t o ) 
+ 	 	 	 	 C o n s u l t o r   T é c n i c o   O r a c l e   E B S 
+ 	 	 	 	 
+ I m p l a n t a ç ã o / M i g r a ç ã o   O r a c l e   E B S   p a r a   1 2 . 1 . 3   n a   D e l l . 
+ M i g r a ç ã o   d e   c o m p o n e n t e s   ( J a v a ,   S h e l l   S c r i p t ,   P L / S Q L ,   O r a c l e   R e p o r t s / F o r m s   e   B I   P u b l i s h e r   ( F A ,   G L ,   S L A   e   A G I S ) )   e   d o c u m e n t a ç ã o   n a   m e t o d o l o g i a   A I M . 
+ L i d e r a n ç a   t é c n i c a   d e   d e s e n v o l v e d o r e s   v o l t a d o s   à   c u s t o m i z a ç õ e s   d o   m o d u l o   A G I S . 
+ A t u a n d o   c o m   t i m e s   d e   B r a s i l ,   Í n d i a   e   E s t a d o s   U n i d o s . 
+ 
+ 0 9 / 2 0 1 2   a   0 5 / 2 0 1 3 	 I n n o v a t i v e   M a n a g e m e n t   C o n s u l t i n g   ( R i o   d e   J a n e i r o   R J ) 
+ 	 	 	 	 C o n s u l t o r   T é c n i c o   O r a c l e   E B S 
+ 
+ R e i m p l a n t a ç ã o   O r a c l e   E B S   d a   v e r s ã o   1 1 . 5 . 9   p a r a   1 2 . 1 . 3   n a   R e d e   G l o b o   –   R J . 
+ M i g r a ç ã o   e   d e s e n v o l v i m e n t o   d e   n o v o s   c o m p o n e n t e s   ( O r a c l e   R e p o r t s ,   O r a c l e   F o r m s ,   B I   P u b l i s h e r ,   O r a c l e   W o r k f l o w   e   O A F )   n o s   m ó d u l o s   ( A P ,   P O ,   I N V ,   R I ) . 
+ 
+ 1 2 / 2 0 0 8   a   0 9 / 2 0 1 2   	 A l g a r   T e c n o l o g i a   e   C o n s u l t o r i a   S . A .   ( U b e r l â n d i a   M G ) 
+ 	 	 	 	 A n a l i s t a   d e   S i s t e m a s   O r a c l e   E B S 
+ 
+ E l a b o r a ç ã o   d e   p l a n o s   d e   t e s t e s   e   e x e c u ç ã o   d e s t e s ,   l e i t u r a   e   e n t e n d i m e n t o   d e   r e q u i s i t o s . 
+ A n a l i s e   d e   P r o c e s s o s ,   e s p e c i f i c a ç ã o   e   i m p l e m e n t a ç ã o   d e   n o v a s   f u n c i o n a l i d a d e s ,   m a n u t e n ç ã o   e   c u s t o m i z a ç õ e s   c o m   P L / S Q L ,   O r a c l e   A p p l i c a t i o n   F r a m e w o r k   ( O A F ) ,   F o r m s / R e p o r t s   e   B I   P u b l i s h e r . 
+ D e s e n v o l v i m e n t o   d e   i n t e g r a ç õ e s   p a r a   s i s t e m a s   l e g a d o s   u t i l i z a n d o   O r q u e s t r a ç ã o   S O A   /   B P E L . 
+ A n a l i s e   d e   C a u s a   R a i z   ( E n h a n c e m e n t )   n o   i n t u i t o   d e   d i m i n u i r   c o n s i d e r a v e l m e n t e   o   n ú m e r o   d e   i n c i d e n t e s   p r o p o n d o   s o l u ç õ e s   d e f i n i t i v a s . 
+ C r i a ç ã o   d e   I n t e r f a c e   d e   I n t e g r a ç ã o   O r a c l e   E B S   x   S P E D   ( P r o j e t o   P I S / C O F I N S   –   M o d u l o s : A P ,   A R ,   G L ,   F A ,   I N V ,   R I ,   S L A ) . 
+ M a n u t e n ç ã o   d e   i n t e g r a ç õ e s   e n t r e   o   O r a c l e   E B S   e   s i s t e m a s   l e g a d o s   t a i s   c o m o   G F   A l l i a n c e   e   S G P . 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 

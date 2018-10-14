@@ -1,0 +1,104 @@
+R e n a n   J o s é   S c h i a v o 
+ N e p o m u c e n o   D i n i z   d e   V a r g a s ,   1 7 2 
+ B a i r r o   B e l a   V i s t a -   C a x i a s   d o   S u l 
+ D a t a   d e   n a s c i m e n t o :   2 8 / 1 2 / 1 9 8 3 
+ F o n e s : ( 5 4 ) 9 9 2 6 - 5 1 0 9 
+ 
+ Á r e a   d e   I n t e r e s s e 
+   C o o r d e n a d o r   T I 
+ 
+ 
+ F o r m a ç ã o   A c a d ê m i c a 
+ M B A   e m   G e s t ã o   E s t r a t é g i c a   d e   P e s s o a s ,   C o m p e t ê n c i a s   e   C o a c h i n g   p e l a   F S G   ( c o n c l u í d o   e m   2 0 1 3 ) 
+ -     G r a d u a ç ã o   e m   T e c n ó l o g o   e m   R e d e s   d e   C o m p u t a d o r e s   p e l a   F T E C   ( 2 0 0 8 ) 
+ 
+ E x p e r i ê n c i a   P r o f i s s i o n a l 
+ 
+ 
+ 0 3 / 2 0 1 2   -   A t u a l :   	 	 	 V o g e s   M e t a l u r g i a   L t d a 
+ 	 A n a l i s t a   d e   S e g u r a n ç a   d a   I n f o r m a ç ã o   S ê n i o r 	 
+                   
+ -   V e r i f i c a ç ã o   p e r i ó d i c a   d o s   s i s t e m a s   d e   i n f o r m a ç ã o   p a r a   d e t e c ç ã o   e   p r e v e n ç ã o   d e   t e n t a t i v a s 
+ d e   i n v a s ã o   n o s   s i s t e m a s   q u e   e s t ã o   n a   D M Z   e   n a s   a p l i c a ç õ e s   i n t e r n a s .   
+ -   G e r e n c i a m e n t o   e   m a n u t e n ç ã o   d a s   p o l í t i c a s   d e   a c e s s o ,   l i n k s   d e   d a d o s   e   d e   c o n t i n g ê n c i a   d a   m a t r i z   e   6   f i l i a i s ,   p r i o r i z a n d o   a   o t i m i z a ç ã o   d o s   r e c u r s o s   c o m   Q o S .   
+ -   M a n u t e n ç ã o ,   a n á l i s e   e   c o r r e ç ã o   d e   p r o b l e m a s   d o s   s e r v i d o r e s   v i r t u a i s   e   f í s i c o s ,   d e s k t o p s   v i r t u a i s   e   o u t r o s   a t i v o s   p a r a   a s s i m   d i m i n u i r   o   d o w n t i m e   d o s   s i s t e m a s .   
+ -   G e s t ã o   d e   a t u a l i z a ç ã o   d e   s e r v i d o r e s   G N U   L i n u x ,   W i n d o w s   S e r v e r   e   a u x í l i o   a o   a n a l i s t a   q u e   g e r e n c i a   a s   e s t a ç õ e s . 
+ - D e s e n v o l v i m e n t o   e   m o d i f i c a ç ã o   d e   f e r r a m e n t a s   l i v r e s   p a r a   a p o i o   a o s   d i v e r s o s   s e t o r e s   d a   o r g a n i z a ç ã o . 
+ -   A n á l i s e   e   m a p e a m e n t o   d e   r e q u i s i t o s   p a r a   p r o j e t o   d e   i m p l a n t a ç ã o   d e   n o v o s   s e r v i ç o s ,   s e r v i d o r e s   e   m u d a n ç a s   n a   e s t r u t u r a .   
+ -   G e s t ã o   d e   c o n f i g u r a ç ã o   c o m   a   c r i a ç ã o   e   m a n u t e n ç ã o   d a   d o c u m e n t a ç ã o   d o s   d i v e r s o s   s i s t e m a s   m a n t i d o s   p e l o   s e t o r   d a   i n f r a e s t r u t u r a .   
+ -   G e s t ã o   e   m a n u t e n ç ã o   d o   h a r d w a r e   d o   d a t a c e n t e r ,   c o m o   s e r v i d o r e s ,   a t i v o s   d e   r e d e   e   s t o r a g e s .   
+ -   A p o i o   a o s   d e m a i s   a n a l i s t a s   e m   p r o b l e m a s   m a i s   c o m p l e x o s .   
+ -   M a p e a m e n t o ,   c r i a ç ã o   e   m a n u t e n ç ã o   d a s   p o l í t i c a s   d e   b a c k u p   j u n t a m e n t e   c o m   o   a n a l i s t a   r e s p o n s á v e l . 
+ 
+   
+ 0 2 / 2 0 1 1 -   0 3 / 2 0 1 2 : 	 	 R a i d b r -   S o l u ç õ e s   e m   I n f o r m á t i c a 
+ C o o r d e n a d o r   d e   S u p o r t e               
+ 
+ -   P a r t i c i p a ç ã o   n o   d e s e n v o l v i m e n t o   d e   v á r i o s   m ó d u l o s   d o   s i s t e m a   d e   f i r e w a l l .   
+ -   M a p e a m e n t o   d e   p r o c e s s o s .   
+ -   D e s i g n ,   m a p e a m e n t o   d e   r e q u i s i t o s ,   d e s e n v o l v i m e n t o   e   g e r e n c i a m e n t o   d o   p r o j e t o   p a r a   f e r r a m e n t a   d e   f i l t r a g e m   d e   e - m a i l s   e   i n t e r f a c e   d e   g e r e n c i a m e n t o   d o   s o f t w a r e   d e   s e g u r a n ç a . 
+ -   C o o r d e n a ç ã o   d a   e q u i p e   d e   s u p o r t e   a o   u s u á r i o ,   g e r e n c i a n d o   a g e n d a ,   f i l a   d e   a t e n d i m e n t o s ,   d i s t r i b u i ç ã o   d e   t a r e f a s   a o s   t é c n i c o s .   
+ -   P l a n e j a m e n t o   d e   a ç õ e s   p a r a   r e s o l u ç ã o   d e   p r o b l e m a s   d e   c l i e n t e s   e   c r i a ç ã o   e   g e r e n c i a m e n t o   d e   p r o j e t o s   d e   i m p l a n t a ç ã o   d a s   f e r r a m e n t a s . 
+ 
+ 
+ 0 3 / 2 0 1 0   -   0 2 / 2 0 1 1 	 	 F o c c o   S i s t e m a s   d e   G e s t ã o 
+ 	 A n a l i s t a   d e   I n f r a e s t r u t u r a   e   D B A   O r a c l e 
+ 	 	 	 	                 	                 
+ - S u p o r t e   t é c n i c o   a o s   s i s t e m a s   o p e r a c i o n a i s   b a s e   d o   s o f t w a r e   d e s e n v o l v i d o   p e l a   e m p r e s a . 
+ -   D e s e n v o l v i m e n t o   d e   s c r i p t s   d e   b a c k u p   e   a u t o m a t i z a ç ã o   d e   p r o c e s s o s   d e   i n s t a l a ç ã o   e   m a n u t e n ç ã o   d o s   s i s t e m a s .   
+ -   S u p o r t e   t é c n i c o   a o   b a n c o   d e   d a d o s   O r a c l e . 
+ 
+ 0 1 / 2 0 0 2   -   0 3 / 2 0 1 0 	 	 S u p p o r t   S o l u ç õ e s   e m   I n f o r m á t i c a 
+ 	 	 	 	 C o o r d e n a d o r   d a   e q u i p e   d e   S o l u ç õ e s   e m   O p e n   S o u r c e 
+ 	 	 	 
+ -   S u p o r t e   t é c n i c o   a   f e r r a m e n t a s   o p e n s o u r c e   G N U   L i n u x   e   F r e e B S D .   
+ -   S u p o r t e   e m   e s t a ç õ e s   e   s e r v i d o r e s   M i c r o s o f t .   
+ -   D e s e n v o l v i m e n t o   d o   p r o d u t o   d e   f i r e w a l l ,   e n g l o b a n d o   m a p e a m e n t o   d e   r e q u i s i t o s   e   g e s t ã o   d o   p r o j e t o   p a r a   m e l h o r i a   e   n o v a s   f e a t u r e s .   
+ -   G e r e n c i a m e n t o   e   d e s e n v o l v i m e n t o   d o   s i s t e m a   d e   m o n i t o r a m e n t o   d e   a t i v o s   d o s   c l i e n t e s   c o m   a n á l i s e   e   c o r r e ç õ e s   d e   s e g u r a n ç a   e n t r e g u e s   e m   r e l a t ó r i o s   m e n s a i s .   
+ -   C o o r d e n a ç ã o   d a   e q u i p e   d e   d e s e n v o l v i m e n t o   e   s u p o r t e   d o   f i r e w a l l ,   s i s t e m a s   e   a p l i c a ç õ e s   o p e n s o u r c e ,   g e r e n c i a n d o   e   t r e i n a n d o   o   p e s s o a l . 
+ 
+ C e r t i f i c a ç õ e s : 
+ C e r t i f i c a ç ã o   L P I C   N i v e l   2 
+ C e r t i f i c a ç ã o   N o v e l l   D a t a   C e n t e r   T e c h n i c a l   S p e c i a l i s t 
+ C e r t i f i c a ç ã o   N o v e l l   C e r t i f i e d   L i n u x   A d m i n i s t r a t o r 
+ C e r t i f i c a ç ã o   I T I L v 3   F o u n d a t i o n 
+ 
+ C u r s o s : 
+ C u r s o :   D B A   O r a c l e   1 0 G   –   W o r k s h o p   1 
+ D u r a ç ã o :   4 0   H o r a s 
+ P e r í o d o :   0 2 / 0 8 / 2 0 1 0   a   0 1 / 0 9 / 2 0 1 0 
+ 
+ C u r s o :   B a c u l a   –   F e r r a m e n t a   l i v r e   d e   B a c k u p 
+ I n s t r u t o r :   H e i t o r   M e d r a d o   d e   F a r i a   ( h t t p : / / w w w . b a c u l a . c o m . b r ) 
+ D u r a ç ã o :   2 4   H o r a s 
+ P e r í o d o :   2 8 / 1 0 / 2 0 1 0   a   3 0 / 1 0 / 2 0 1 0 
+ 
+ C u r s o :   F u n d a m e n t o s   E m   I t i l   V 3 
+ E m p r e s a :   S i s n e m a 
+ D u r a ç ã o :   2 0   H o r a s 
+ P e r í o d o :   0 2 / 0 9 / 2 0 1 1   a   0 4 / 0 9 / 2 0 1 1 
+ 
+ C u r s o :   T ó p i c o s   A v a n ç a d o s   E m   C i t r i x   X e n s e r v e r 
+ E m p r e s a :   G r u p p e n   -   F t e c 
+ D u r a ç ã o :   1 2   H o r a s 
+ P e r í o d o :   0 9 / 0 6 / 2 0 1 2   e   2 3 / 0 6 / 2 0 1 2 
+ 
+ C u r s o :   I m p l e m e n t a n d o   o   F o r e f r o n t   T h r e a t   M a n a g e m e n t   G a t e w a y   2 0 1 0 
+ E m p r e s a :   S i s n e m a 
+ D u r a ç ã o :   1 6   H o r a s 
+ P e r í o d o :   0 5 / 1 1 / 2 0 1 2   e   0 8 / 1 1 / 2 0 1 2 
+ 
+ C u r s o :   I n g l ê s   I n t e r m e d i á r i o 
+ E m p r e s a :   C o l l e g e   Y e s   C u l t u r a l 
+ 
+ 
+ O u t r o s   C o n h e c i m e n t o s : 
+ D o m í n i o   e m   t o d a s   a s   v e r s õ e s   d o   S i s t e m a   O p e r a c i o n a l   W i n d o w s   p a r a   d e s k t o p ,   W i n d o w s   2 0 0 0   a   2 0 1 2   S e r v e r   ( G P O ,   A D S ,   D N S ,   D H C P   e   o u t r o s   r e c u r s o s   d e   s e r v i d o r ) .   D o m í n i o   n a   f e r r a m e n t a   M i c r o s o f t   T M G   S e r v e r . 
+ D o m í n i o   e   e x p e r i ê n c i a s   n o s   S i s t e m a s   O p e r a c i o n a i s   F r e e B S D   e   G n u   L i n u x   n a   a d m i n i s t r a ç ã o   e   c o n f i g u r a ç õ e s   d e :   S e r v i d o r   d e   e m a i l ,   f i r e w a l l ,   p r o x y ,   D N S ,   m e n s a g e n s   i n s t a n t â n e a s ,   a r q u i v o s   e   i m p r e s s ã o . 
+ C o n h e c i m e n t o   e m   l i n g u a g e n s   d e   p r o g r a m a ç ã o   P a s c a l ,   O b j e c t   P a s c a l ,   C ,   C + + ,   P y t h o n ,   S h e l l   S c r i p t ,   J a v a ,   P h p   e   H t m l . 
+ D o m í n i o   d a s   f e r r a m e n t a s   d e   s e g u r a n ç a   S y m a n t e c   E n d P o i n t   P r o t e c t i o n ,   S y m a n t e c   E m a i l   S e c u r i t y ,   T r e n d M i c r o   O f f i c e S c a n   e   T r e n M i c r o   I n t e r S c a n   M e s s a g i n g   S e c u r i t y . 
+ D o m í n i o   e m   f e r r a m e n t a s   d e   V i r t u a l i z a ç ã o   c o m o   M S   H y p e r - V ,   V M w a r e   E S X ,   p r i n c i p a l m e n t e   e m   C i t r i x   X e n S e r v e r   e   X e n D e s k t o p .   D o m í n i o   n a   f e r r a m e n t a   d e   v i r t u a l i z a ç ã o   d e   a p l i c a ç õ e s   M S   A p p - V . 
+ D o m í n i o   e m   a d m i n i s t r a ç ã o   d e   b a n c o   d e   d a d o s   O r a c l e ,   M y s q l   e   P o s t g r e S Q L . 
+ D o m í n i o   n a s   f e r r a m e n t a s   d e   g e s t ã o   d e   s t o r a g e   d a   H P   S t o r a g e W o r k s ,   D E L L   E q u a l l o g i c   e   g e s t ã o   d e   h a r d w a r e   O p e n M a n a g e   E s s e n t i a l s . 
+ D o m í n i o   n a s   f e r r a m e n t a s   d e   m o n i t o r a m e n t o   N a g i o s   e   Z a b b i x . 
+ 

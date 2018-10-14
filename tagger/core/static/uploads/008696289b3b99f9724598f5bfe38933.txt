@@ -1,0 +1,175 @@
+H a r i s s o n   M u n h o s   d e   F r e i t a s   
+ 
+   
+ 
+ S o l t e i r o ,   b r a s i l e i r o ,   2 6   a n o s .   
+ C e l u l a r :   ( 5 1 )   9 8 4 3 9   -   0 9 6 1   
+   
+ 
+ R u a   J ú l i o   d e   C a s t i l h o s , 1 6 5 7   -   C e n t r o   
+ E n c a n t a d o   –   R i o   G r a n d e   d o   S u l   
+ E - m a i l :   ​ h a r r y . f r e i t a s @ h o t m a i l . c o m /   
+ h a r i s s o n . f r e i t a s @ g m a i l . c o m   
+   
+ 
+   
+ O B J E T I V O   
+ A p r i m o r a r   e   e v o l u i r   m e u s   c o n h e c i m e n t o   v i s a n d o     t o r n a r - m e   E n g e n h e i r o   o u   a r q u i t e t o   d e   s o f t w a r e .   
+   
+ R E S U M O   P R O F I S S I O N A L   
+ D e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   p a r a   d i s p o s i t i v o s   m ó v e i s   n a   p l a t a f o r m a   I O S / A n d r o i d ( O b j e c t i v e - C / S w i f t ) ;   
+ D e s e n v o l v i m e n t o   b a c k - e n d   c o m   J a v a ( E J B / S p r i n g ) ;   
+ D e s e n v o l v i m e n t o   f r o n t - e n d   W E B   c o m   H T M L   5 ,   C S S 3   e   J S ( A n g u l a r J S / R e a c t J S ) ;   
+ A n á l i s e   e   D e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   e m   e q u i p a m e n t o s   P O S ,   T E F ,   U R A ,   A T M   e   d i s p o s i t i v o s   m ó v e i s ;   
+ E x p e r i ê n c i a   n o   d e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   n a s   t e c n o l o g i a s   C ,   C + + ,   P y t h o n   e   V i s u a l   B a s i c ;   
+ E x p e r i ê n c i a   e m   i n f r a e s t r u t u r a   d e   s e r v i d o r e s   L i n u x   R e d   H a t   e   C e n t O s ;   
+ E x p e r i ê n c i a   c o m   B a n c o   d e   d a d o s   S Q L ,   O r a c l e   e   S Q L i t e ;   
+ D e s e n v o l v i m e n t o   u t i l i z a n d o   m e t o d o l o g i a s     á g e i s ( F r a m e w o r k   S c r u m ) ;   
+ C o n h e c i m e n t o   d o s   s e r v i d o r e s   d e   a p l i c a ç õ e s   J b o s s   e   W e b L o g i c .   
+   
+ E X P E R I Ê N C I A   P R O F I S S I O N A L   
+   
+ 
+ 2 0 0 9   -   2 0 1 0   –   B a n r i s u l   S / A       
+ C a r g o :   E s t a g i á r i o / D e s e n v o l v e d o r   
+ D e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   e m   l i n g u a g e m   C   e   C + +   v o l t a d o s   p a r a   e q u i p a m e n t o s   
+ P O S ( B a n r i c o m p r a s /   I n t e g r a ç ã o   A d q u i r ê n c i a   M a s t e r C a r d )   e   A T M ( C a i x a s   E l e t r ô n i c o s ) ;   
+ E l a b o r a ç ã o   d a s   a n á l i s e s   e   r e g r a s   d e   n e g ó c i o   d a s   a p l i c a ç õ e s   d e s e n v o l v i d a s   p e l o   B a n r i s u l .   
+   
+ P r o j e t o :     
+ A d q u i r ê n c i a   M a s t e r C a r d ;   
+ I n t e g r a ç ã o   m ó d u l o   d e p o s i t á r i o ;   
+   
+   
+ 2 0 1 0   -   2 0 1 0   –   D a t u m   T I   
+ C a r g o :   E s t a g i á r i o / D e s e n v o l v e d o r   
+ D e s e n v o l v i m e n t o   d a s   a p l i c a ç õ e s   b a c k - E n d   e m   l i n g u a g e m   C + +   e   f r o n t - E n d   e m   V i s u a l   B a s i c   p a r a   a   
+ a p l i c a ç ã o   S I A P V .     
+   
+ P r o j e t o :   
+ S I A P V   T E F   -   C a i x a   E c o n ô m i c a   F e d e r a l .   
+   
+ 2 0 1 0   –   2 0 1 2   -     G e t N e t   
+ C a r g o :   A n a l i s t a / D e s e n v o l v e d o r   
+ D e s e n v o l v i m e n t o   C , C + +   e   J a v a   p a r a   a p l i c a ç õ e s   W E B , e     e m   e q u i p a m e n t o s   P O S ( p a d r ã o   I S O   8 5 8 3   
+ p r o t o c o l o   X 2 5   e   R e n p a c )   e   A T M .   
+ A n á l i s e   d e   p e r f o r m a n c e   e   t e s t e   d e   c a r g a   e m   a p l i c a ç õ e s   W e b   c o m   o   a u x í l i o   d a s   f e r r a m e n t a s   J m e t e r   e   
+ B a d B o y ;   
+   
+ P r o j e t o s :   
+ I n c l u s ã o   d e   B i n s   c a r t õ e s   T o p á z i o   –   G E T N E T ;   
+ I n c l u s ã o   d e   B i n s   C a r t õ e s   U N I K   –   G E T N E T ;   
+ I n c l u s ã o   d e   B i n s   C a r t õ e s   S O R O C R E D   –   G E T N E T ;   
+ I n c l u s ã o   R e c a r g a   9 °   D í g i t o   S ã o   P a u l o   –   G E T N E T ;   
+ I n c l u s ã o   P o r t a i s   d e   C r é d i t o   G E T N E T   –   G E T N E T ;   
+ A u t o   i n s t a l a ç ã o   d o s   s i s t e m a s   P O S   –   G E T N E T ;   
+ A u t o m a ç ã o   d e   s i s t e m a s   g e r e n c i a i s   -   G E T N E T ;   
+ 
+   
+ 
+  S a q u e   P a g u e   A T M   –   G E T N E T ;   
+ E n v i o   F á c i l   –   G E T N E T ;   
+   
+ 2 0 1 2   –   2 0 1 4   -     B a n c o   T o p á z i o   S / A   
+ C a r g o :   A n a l i s t a / D e s e n v o l v e d o r   
+ D e s e n v o l v i m e n t o   m o b i l e   I O S / A n d r o i d ;   
+ D e s e n v o l v i m e n t o   b a c k - e n d   e m   J a v a   d a s   f u n c i o n a l i d a d e   p a r a   a s   a p l i c a ç õ e s   r e l a c i o n a d a s   á s   
+ d e m a n d a s   l e g a i s   d o   B A C E N ,   e   a p l i c a ç õ e s   p a r a   u s o   d o s   c l i e n t e s   d o   B a n c o   T o p á z i o .   
+ T r a t a m e n t o   e   d e s e n v o l v i m e n t o   e m   J a v a   d o s   a r q u i v o s   C N A B   r e m e s s a   e   r e t o r n o   c o m   4 0 0   P o s i ç õ e s ,   
+ c o n t e m p l a n d o   o s   l a y o u t s   d o s   b a n c o s   I t a ú ,   B a n c o   B r a d e s c o   e   H S B C ;   
+ A n á l i s e   e   d e s e n v o l v i m e n t o ( I n t e g r a ç ã o )   e m   J a v a     d o s   s i s t e m a s   d e   m e n s a g e r i a   -   S P B ;   
+   
+ P r o j e t o s   D e s e n v o l v i d o s :   
+ P r o j e t o   E n v i o   F á c i l   -   M o b i l e l ;   
+ P r o j e t o   S a q u e   P a g u e   -   M o b i l e ;   
+ P r o j e t o   G e s t ã o   d e   R i s c o s   -   M o b i l e ;   
+ P r o j e t o   S G R   -   G e s t ã o   d e   R e c e b í v e i s   -   J a v a ;   
+ P r o j e t o   I n t e g r a ç ã o   C D C   -   J a v a ;   
+ 2 0 1 4   –   ( A t u a l m e n t e )   -   T O T V S   S / A   
+ A n a l i s t a / D e s e n v o l v e d o r   
+ D e s e n v o l v i m e n t o   F u l l s t a c k   J a v a ( E J B   +   J S F )   p a r a   m a n u t e n ç ã o   e   c u s t o m i z a ç ã o   d a s   a p l i c a ç õ e s   
+ f i n a n c e i r a s   r e l a c i o n a d a s   a o   p r o d u t o   p a d r ã o   T o t v s   n o   s e g m e n t o   f i n a n c e i r o ;   
+ A r q u i t e t u r a   d e   s c r i p t s   e m   J S   p a r a   a     A u t o m a ç ã o   d a s   a p l i c a ç õ e s   W E B   c o m   o   T e s t C o m p l e t e .       
+ A n á l i s e   e   D e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   m o b i l e   e   W E B ( F u l l S t a c k )     p a r a   I n t e r n e t   
+ B a n k i n g ( I O S / A n d r o i d ) ;   
+ A n á l i s e   e   D e s e n v o l v i m e n t o   F u l l S t a c k   c o m   J a v a ( E J B   -   B a c k - E n d )   +   J a v a ( S p r i n g   -   F r o n t )   +   A n g u l a r J S   
+ p a r a   a   a p l i c a ç ã o   W E B   d e   p a g a m e n t o   d a s   L o j a s   R e n n e r ;   
+ D e s e n v o l v i m e n t o   J a v a ( B a c k - E n d )   p a r a   a   p r o c e s s a d o r e s   d e   c a r t õ e s   T o t v s C a r d .     
+   
+ P r o j e t o s   D e s e n v o l v i d o s :   
+ N o v o   G r i s c o   -   ( C l i e n t e   B a n c o   M o n e o ) ;   
+ A u t o m a ç ã o   E s t e i r a   d e   c r é d i t o   ( U n i c r e d ) ;   
+ S u s t a ç ã o   d e   C h e q u e s ( N B C   e   B a n c o   R a n d o n ) ;   
+ T o t v s C a r d   -   P r o c e s s a d o r a   e   E m b o s s a d o r a   d e   C a r t õ e s ;   
+ 
+   
+ 
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+ 
+   
+ 
+   
+                             I n t e r n e t   B a n k i n g   U N I C R E D   N N E :   
+ 
+   
+ 
+ I n t e g r a ç ã o   T o k e n ;   
+ N P C   -   N o v a   P l a t a f o r m a   d e   C o b r a n ç a ;     
+ h t t p s : / / i t u n e s . a p p l e . c o m / b r / a p p / u n i c r e d - n n e / i d 8 1 8 4 0 9 8 0 0 ? m t = 8   
+ h t t p s : / / p l a y . g o o g l e . c o m / s t o r e / a p p s / d e t a i l s ? i d = b r . c o m . u n i c r e d n n e . i b & h l = p t _ B R   
+   
+ I n t e r n e t   B a n k i n g   K E B ( K o r e a   E x c h a n g e   B a n k ) :   
+ I n t e g r a ç ã o   T o k e n ;   
+ P r o j e t o   G e s t ã o   d e   T r a n s a ç õ e s ;   
+ P r o j e t o   P a g a m e n t o s   d e   T r i b u t o s ( D A R F   e   G P S ) ;   
+ h t t p s : / / i t u n e s . a p p l e . c o m / u s / a p p / b a n c o - k e b - d o - b r a s i l / i d 9 7 0 4 4 0 2 7 1 ? m t = 8   
+ h t t p s : / / p l a y . g o o g l e . c o m / s t o r e / a p p s / d e t a i l s ? i d = b r . c o m . k e b . i b & h l = p t _ B R   
+   
+ S i t e C C R   -   S i t e   d e   P a g a m e n t o   d a s   L o j a s   R e n n e r :   
+ h t t p s : / / w w w . r e a l i z e s o l u c o e s f i n a n c e i r a s . c o m . b r / c a r t a o - r e n n e r / # / l o g i n   
+   
+ 
+    
+   
+ F O R M A Ç Ã O   
+   
+ U n i v e r s i d a d e   d o   V a l e   d o   R i o   d o   S i n o s   -   U n i s i n o s   
+ G r a d u a ç ã o     e m   S i s t e m a s   p a r a   a   I n t e r n e t   -   E A D   
+ 2 0 1 7   –   2 0 1 9   
+   
+ P o n t i f í c i a   U n i v e r s i d a d e   C a t ó l i c a   d o   R i o   G r a n d e   d o   S u l   
+ B a c h a r e l a d o   e m   E n g e n h a r i a ,   ​ E n g e n h a r i a   d e   S o f t w a r e   
+ 2 0 1 5   –   2 0 1 6   
+   
+ B e p i d   
+ D e s e n v o l v i m e n t o   O f i c i a l   p a r a   D i s p o s i t i v o s   M ó v e i s   ( I O S )   -   ​ B E P i D   é   u m   p r o g r a m a   d e   t r e i n a m e n t o   i O S ,   c o m   
+ u m a   p a r c e r i a   d o   I n s t i t u t o   E l d o r a d o   e   P U C R S .   
+ 2 0 1 3   –   2 0 1 4   
+   
+ F a d e r g s   
+ A n á l i s e   d e   S i s t e m a s ,   ​ T e c n o l o g i a   d a   I n f o r m a ç ã o   
+ 2 0 1 3   –   2 0 1 5   
+   
+ T a r g e t   T r u s t   
+ C u r s o   F o r m a ç ã o   D e s e n v o l v i m e n t o   I O S / A n d r o i d   -   ​ D e s e n v o l v i m e n t o   d e   a p l i c a ç õ e s   p a r a   d i s p o s i t i v o s   m ó v e i s   
+ 2 0 1 2   –   2 0 1 2   
+   
+ A l c i d e s   M a y a   
+ T é c n i c o   e m   i n f o r m á t i c a ,   ​ T e c n o l o g i a   d a   I n f o r m a ç ã o   
+ 2 0 0 9   –   2 0 1 1   
+   
+   
+ 
+   
+ 
+ 
